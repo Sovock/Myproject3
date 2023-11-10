@@ -1,0 +1,181 @@
+.head{
+	width: 1280px;
+	height: 645px;
+	display: flex;
+}
+.title{
+	width: 200px;
+	height: 200px;
+	padding-left: 80px;
+	display: flex;
+}
+.logo{
+	width: 100px;
+	height: 50px;
+	margin-bottom: 100px;
+	margin-right: 500px;
+}
+.Logo1{
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #167E4C;
+}
+.add{
+	width: 100px;
+	height: 50px;
+	margin-top: 40px;
+	display: flex;
+	justify-content: space-around;
+}
+.inst{
+	width: 20px;
+	height: 20px;  
+	margin-right: 10px;
+}
+.pint{
+	width: 20px;
+	height: 20px;
+}
+.mainphoto{
+	width: 400px;
+	height: 645px;
+	margin-left: 100px;
+}
+.mainbutton{
+	width: 640px;
+	height: 700px;
+	display: flex;
+	flex-direction: column; // міняє вісь
+}
+.list{
+	padding-left: 80px;
+}
+.liststl{
+	list-style: none;
+}
+.leftpart{
+	width: 640px;
+	height: 800px;
+}
+.Maintext{
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin-bottom: 20px;
+	margin-left: -40px;
+	color: #6B1111;
+}
+.rectangle{
+	width: 250px;
+	height: 200px;
+	padding-left: 80px;
+	margin-top: 100px;
+}
+.rectangle1{
+	width: 210px;
+	height: 50px;
+	color: red;
+	border: 3px solid #167E4C;
+	border-radius: 10px;
+	margin-bottom: 100px;
+	position: absolute;
+	transform: rotate(5deg);
+
+}
+.rectangle2{
+	width: 200px;
+	height: 50px;
+	color: red;
+	border: 3px solid #167E4C;
+	border-radius: 10px;
+	padding-left:  10px;
+	margin-bottom: 100px;
+	position: absolute;
+}
+.logo{
+	width: 100px;
+	height: 50px;
+	margin-bottom: 100px;
+	margin-right: 500px;
+}
+.More{
+	width: 100px;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-left: 45px;
+}
+.More1{
+	font-size: 25px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #167E4C;
+}
+
+.selec{
+	width: 1280px;
+	height: 645 px;
+	display: flex;
+}
+.About{
+	width: 620px;
+	height: 645 px;
+}
+.About1{
+	font-size: 30px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	color: #6B1111;
+	margin-left: 80px;
+	margin-top: 100px;
+}
+.text{
+	width: 450px;
+	height: 645 px;
+	margin-left: 80px;
+	margin-top: 30px;
+}
+.text1{
+	font-family: sans-serif;
+}
+.rectangleAbout{
+	width: 420px;
+	height:420px;
+	padding-left: 80px;
+	margin-top: 100px;
+	margin-left: 150px;
+}
+.rectangleAbout1{
+	width: 400px;
+	height: 350px;
+	border: 3px solid #167E4C;
+	border-radius: 20px;
+	position: absolute;
+}
+.rectangleAbout2{
+	width: 400px;
+	height: 350px;
+	border: 3px solid #167E4C;
+	border-radius: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	position: absolute;
+}
+.Aboutme{
+	width: 100px;
+	height: 50px;
+	align-items: center;
+	justify-content: space-around;
+	margin-left: 160px;
+	margin-top: 100px;
+}
+.Aboutme1{
+	font-size: 50px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin-bottom: 20px;
+	margin-left: -40px;
+	color: #167E4C;
+}
